@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(name='SENN',
       version='0.1',
-      description='Perturbation and gradient-based methods for Deep Network interpretability',
+      description='Self Explaining Neural Networks',
       url='https://github.mit.edu/dalvmel/SENN',
       author='David Alvarez Melis (MIT)',
       author_email='dalvmel@mit.edu',
