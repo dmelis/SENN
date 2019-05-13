@@ -1,0 +1,56 @@
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.synctex.gz
+
+## auxiliary files from sublfiles
+*.lb
+*.fdb_latexmk
+
+## Bibliography auxiliary files (bibtex/biblatex/biber):
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.brf
+*.run.xml
+
+## Python compiled
+*.pyc
+__pycache__/
+*.py[cod]
+
+## Data and Models and Misc Results
+
+/data/
+/models/
+/out/
+/log/
+SENN/out/
+SENN/checkpoints/
+
+
+## Compiled package
+build/
+dist/
+*egg-info*
+
+
+
+
+
+## Notebook checkpoints
+*.ipynb_checkpoints*
+
+## Misc
+*.DS_Store
