@@ -13,7 +13,7 @@ grpcio==1.11.0
 h5py==2.7.1
 html5lib==0.9999999
 iml==0.6.0
-ipython==6.4.0
+ipython>=7.16.3
 ipython-genutils==0.2.0
 jedi==0.12.0
 Keras==2.1.6
