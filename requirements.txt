@@ -9,7 +9,7 @@ decorator==4.3.0
 #deepexplain==0.1
 #fairml==0.1.1.5
 gast==0.2.0
-grpcio==1.11.0
+grpcio==1.53.0
 h5py==2.7.1
 html5lib==0.9999999
 iml==0.6.0
