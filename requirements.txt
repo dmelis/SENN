@@ -50,7 +50,7 @@ tensorboardX==1.0
 tensorflow>=2.4.0
 tensorflow-tensorboard==0.1.8
 termcolor==1.1.0
-torch==0.3.0.post4
+torch==1.13.1
 torchvision==0.2.0
 tqdm==4.19.4
 traitlets==4.3.2
